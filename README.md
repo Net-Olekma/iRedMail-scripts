@@ -43,7 +43,7 @@ There are scripts so far to do the following administrative functions:
 | Forwarding    |                                     |                                                                                                                                             |
 |               | list-forwarding.sh                  | List any configured forwards                                                                                                                |
 |               | remove-forwarding.sh                | Deletes mail forwarding from a given address to another entered address                                                                     |
-|				| remove-whole-forward.sh			                | Removes the whole forwarding address and all forwards associated to it																		                                  |
+|				        | remove-whole-forward.sh			        | Removes the whole forwarding address and all forwards associated to it																		                                  |
 |               | add-mail-forward.sh                 | Forward mail from one user account to another                                                                                               |
 |               | is-forward-to.sh                    | List if any addresses are set to forward to a given address                                                                                 |
 |               | is-forward-from.sh                  | List if any addresses are set to forward fromm a given address                                                                              |
